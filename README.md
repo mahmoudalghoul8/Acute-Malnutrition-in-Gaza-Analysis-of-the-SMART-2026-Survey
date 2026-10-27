@@ -124,4 +124,4 @@ Microsoft Excel (data preparation & validation) | SQL (analysis queries) | Power
 
 ## Author
 **Mahmoud Aref Algoul** — Data Analyst
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) | [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/mahmoud-algoul-0306b2249/) | [GitHub](https://github.com/YOUR-USERNAME)
