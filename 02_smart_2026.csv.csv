@@ -1,0 +1,140 @@
+indicator_id;indicator_name;category;age_group;domain;estimate_pct;ci_low;ci_high;page;ci_width;relative_precision;precision_flag;who_severity;highest_domain;lowest_domain;ci_check
+GAM_WHZ;Global Acute Malnutrition (WHZ);Acute Malnutrition;0-59m;Gaza_North_Gaza;0.8;0.3;2;20;1.7;2.125;Low;Acceptable (<5%);Gaza_North_Gaza;Khan_Younis_Rafah;1.7
+GAM_WHZ;Global Acute Malnutrition (WHZ);Acute Malnutrition;0-59m;Deir_Al_Balah;0.5;0.1;2;20;1.9;3.8;Low;Acceptable (<5%);Gaza_North_Gaza;Khan_Younis_Rafah;1.9
+GAM_WHZ;Global Acute Malnutrition (WHZ);Acute Malnutrition;0-59m;Khan_Younis_Rafah;0.2;0;1.8;20;1.8;9;Low;Acceptable (<5%);Gaza_North_Gaza;Khan_Younis_Rafah;1.8
+GAM_WHZ;Global Acute Malnutrition (WHZ);Acute Malnutrition;0-59m;Gaza_Strip_weighted;0.5;0.2;1;20;0.8;1.6;Low;Acceptable (<5%);Gaza_North_Gaza;Khan_Younis_Rafah;0.8
+SAM_WHZ;Severe Acute Malnutrition (WHZ);Acute Malnutrition;0-59m;Gaza_North_Gaza;0.2;0;1.4;20;1.4;7;Low;Acceptable (<1%);Gaza_North_Gaza;Deir_Al_Balah;1.4
+SAM_WHZ;Severe Acute Malnutrition (WHZ);Acute Malnutrition;0-59m;Deir_Al_Balah;0;0;0;20;0;;;Acceptable (<1%);Gaza_North_Gaza;Deir_Al_Balah;0
+SAM_WHZ;Severe Acute Malnutrition (WHZ);Acute Malnutrition;0-59m;Khan_Younis_Rafah;0.2;0;1.8;20;1.8;9;Low;Acceptable (<1%);Gaza_North_Gaza;Deir_Al_Balah;1.8
+SAM_WHZ;Severe Acute Malnutrition (WHZ);Acute Malnutrition;0-59m;Gaza_Strip_weighted;0.2;0;0.7;20;0.7;3.5;Low;Acceptable (<1%);Gaza_North_Gaza;Deir_Al_Balah;0.7
+GAM_MUAC;Global Acute Malnutrition (MUAC);Acute Malnutrition;6-59m;Gaza_North_Gaza;1.5;0.6;3.6;22;3;2;Low;Acceptable (<5%);Deir_Al_Balah;Khan_Younis_Rafah;3
+GAM_MUAC;Global Acute Malnutrition (MUAC);Acute Malnutrition;6-59m;Deir_Al_Balah;1.9;0.8;4.3;22;3.5;1.842;Low;Acceptable (<5%);Deir_Al_Balah;Khan_Younis_Rafah;3.5
+GAM_MUAC;Global Acute Malnutrition (MUAC);Acute Malnutrition;6-59m;Khan_Younis_Rafah;0.8;0.3;2.4;22;2.1;2.625;Low;Acceptable (<5%);Deir_Al_Balah;Khan_Younis_Rafah;2.1
+GAM_MUAC;Global Acute Malnutrition (MUAC);Acute Malnutrition;6-59m;Gaza_Strip_weighted;1.3;0.7;2.1;22;1.4;1.077;Medium;Acceptable (<5%);Deir_Al_Balah;Khan_Younis_Rafah;1.4
+SAM_MUAC;Severe Acute Malnutrition (MUAC);Acute Malnutrition;6-59m;Gaza_North_Gaza;0.2;0;1.6;22;1.6;8;Low;Acceptable (<1%);Deir_Al_Balah;Khan_Younis_Rafah;1.6
+SAM_MUAC;Severe Acute Malnutrition (MUAC);Acute Malnutrition;6-59m;Deir_Al_Balah;0.5;0.1;2.2;22;2.1;4.2;Low;Acceptable (<1%);Deir_Al_Balah;Khan_Younis_Rafah;2.1
+SAM_MUAC;Severe Acute Malnutrition (MUAC);Acute Malnutrition;6-59m;Khan_Younis_Rafah;0;0;0;22;0;;;Acceptable (<1%);Deir_Al_Balah;Khan_Younis_Rafah;0
+SAM_MUAC;Severe Acute Malnutrition (MUAC);Acute Malnutrition;6-59m;Gaza_Strip_weighted;0.2;0.1;0.6;22;0.5;2.5;Low;Acceptable (<1%);Deir_Al_Balah;Khan_Younis_Rafah;0.5
+cGAM;Combined Global Acute Malnutrition;Acute Malnutrition;0-59m;Gaza_North_Gaza;1.7;0.8;3.6;24;2.8;1.647;Low;Acceptable (<5%);Deir_Al_Balah;Khan_Younis_Rafah;2.8
+cGAM;Combined Global Acute Malnutrition;Acute Malnutrition;0-59m;Deir_Al_Balah;2;0.9;4.2;24;3.3;1.65;Low;Acceptable (<5%);Deir_Al_Balah;Khan_Younis_Rafah;3.3
+cGAM;Combined Global Acute Malnutrition;Acute Malnutrition;0-59m;Khan_Younis_Rafah;0.7;0.2;2.2;24;2;2.857;Low;Acceptable (<5%);Deir_Al_Balah;Khan_Younis_Rafah;2
+cGAM;Combined Global Acute Malnutrition;Acute Malnutrition;0-59m;Gaza_Strip_weighted;1.3;0.8;2.2;24;1.4;1.077;Medium;Acceptable (<5%);Deir_Al_Balah;Khan_Younis_Rafah;1.4
+cSAM;Combined Severe Acute Malnutrition;Acute Malnutrition;0-59m;Gaza_North_Gaza;0.2;0;1.4;24;1.4;7;Low;Acceptable (<1%);Deir_Al_Balah;Gaza_North_Gaza;1.4
+cSAM;Combined Severe Acute Malnutrition;Acute Malnutrition;0-59m;Deir_Al_Balah;0.5;0.1;2.1;24;2;4;Low;Acceptable (<1%);Deir_Al_Balah;Gaza_North_Gaza;2
+cSAM;Combined Severe Acute Malnutrition;Acute Malnutrition;0-59m;Khan_Younis_Rafah;0.2;0;1.8;24;1.8;9;Low;Acceptable (<1%);Deir_Al_Balah;Gaza_North_Gaza;1.8
+cSAM;Combined Severe Acute Malnutrition;Acute Malnutrition;0-59m;Gaza_Strip_weighted;0.3;0.1;0.8;24;0.7;2.333;Low;Acceptable (<1%);Deir_Al_Balah;Gaza_North_Gaza;0.7
+Underweight;Underweight (WAZ);Underweight;0-59m;Gaza_North_Gaza;3.9;2.4;6.2;25;3.8;0.974;Medium;Low (<10%);Khan_Younis_Rafah;Deir_Al_Balah;3.8
+Underweight;Underweight (WAZ);Underweight;0-59m;Deir_Al_Balah;3.5;2.3;5.5;25;3.2;0.914;Medium;Low (<10%);Khan_Younis_Rafah;Deir_Al_Balah;3.2
+Underweight;Underweight (WAZ);Underweight;0-59m;Khan_Younis_Rafah;4.1;2.5;6.2;25;3.7;0.902;Medium;Low (<10%);Khan_Younis_Rafah;Deir_Al_Balah;3.7
+Underweight;Underweight (WAZ);Underweight;0-59m;Gaza_Strip_weighted;3.9;3;5.1;25;2.1;0.538;Medium;Low (<10%);Khan_Younis_Rafah;Deir_Al_Balah;2.1
+Severe_Underweight;Severe Underweight (WAZ);Underweight;0-59m;Gaza_North_Gaza;1;0.4;2.6;25;2.2;2.2;Low;No WHO threshold defined;Gaza_North_Gaza;Deir_Al_Balah;2.2
+Severe_Underweight;Severe Underweight (WAZ);Underweight;0-59m;Deir_Al_Balah;0;0;0;25;0;;;No WHO threshold defined;Gaza_North_Gaza;Deir_Al_Balah;0
+Severe_Underweight;Severe Underweight (WAZ);Underweight;0-59m;Khan_Younis_Rafah;1;0.4;2.5;25;2.1;2.1;Low;No WHO threshold defined;Gaza_North_Gaza;Deir_Al_Balah;2.1
+Severe_Underweight;Severe Underweight (WAZ);Underweight;0-59m;Gaza_Strip_weighted;0.7;0.4;1.5;25;1.1;1.571;Low;No WHO threshold defined;Gaza_North_Gaza;Deir_Al_Balah;1.1
+Stunting;Stunting (HAZ);Chronic Malnutrition;0-59m;Gaza_North_Gaza;13.5;10.7;16.9;26;6.2;0.459;High;Serious (10-20%);Gaza_North_Gaza;Khan_Younis_Rafah;6.2
+Stunting;Stunting (HAZ);Chronic Malnutrition;0-59m;Deir_Al_Balah;12.6;9;17.5;26;8.5;0.675;Medium;Serious (10-20%);Gaza_North_Gaza;Khan_Younis_Rafah;8.5
+Stunting;Stunting (HAZ);Chronic Malnutrition;0-59m;Khan_Younis_Rafah;11;8.3;14.4;26;6.1;0.555;Medium;Serious (10-20%);Gaza_North_Gaza;Khan_Younis_Rafah;6.1
+Stunting;Stunting (HAZ);Chronic Malnutrition;0-59m;Gaza_Strip_weighted;12.2;10.4;14.2;26;3.8;0.311;High;Serious (10-20%);Gaza_North_Gaza;Khan_Younis_Rafah;3.8
+Severe_Stunting;Severe Stunting (HAZ);Chronic Malnutrition;0-59m;Gaza_North_Gaza;2.9;1.8;4.5;26;2.7;0.931;Medium;Poor (1-5%);Gaza_North_Gaza;Deir_Al_Balah;2.7
+Severe_Stunting;Severe Stunting (HAZ);Chronic Malnutrition;0-59m;Deir_Al_Balah;1.8;0.9;3.6;26;2.7;1.5;Low;Poor (1-5%);Gaza_North_Gaza;Deir_Al_Balah;2.7
+Severe_Stunting;Severe Stunting (HAZ);Chronic Malnutrition;0-59m;Khan_Younis_Rafah;2.9;1.7;4.9;26;3.2;1.103;Medium;Poor (1-5%);Gaza_North_Gaza;Deir_Al_Balah;3.2
+Severe_Stunting;Severe Stunting (HAZ);Chronic Malnutrition;0-59m;Gaza_Strip_weighted;2.6;1.9;3.6;26;1.7;0.654;Medium;Poor (1-5%);Gaza_North_Gaza;Deir_Al_Balah;1.7
+Overweight;Overweight (WHZ>+2SD);Overweight;0-59m;Gaza_North_Gaza;3.3;2;5.3;6;3.3;1;Medium;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;3.3
+Overweight;Overweight (WHZ>+2SD);Overweight;0-59m;Deir_Al_Balah;3.5;2.1;6;6;3.9;1.114;Medium;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;3.9
+Overweight;Overweight (WHZ>+2SD);Overweight;0-59m;Khan_Younis_Rafah;4.8;3;7.5;6;4.5;0.938;Medium;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;4.5
+Overweight;Overweight (WHZ>+2SD);Overweight;0-59m;Gaza_Strip_weighted;4;3;5.4;6;2.4;0.6;Medium;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;2.4
+Maternal_AM_NonPreg;Acute Malnutrition - non-pregnant non-lactating women (MUAC<230mm);Maternal Nutrition;15-49y;Gaza_North_Gaza;7.6;5.7;10.2;6;4.5;0.592;Medium;Moderate (5-10%);Deir_Al_Balah;Gaza_North_Gaza;4.5
+Maternal_AM_NonPreg;Acute Malnutrition - non-pregnant non-lactating women (MUAC<230mm);Maternal Nutrition;15-49y;Deir_Al_Balah;10.9;8.3;14.2;6;5.9;0.541;Medium;High (≥10%);Deir_Al_Balah;Gaza_North_Gaza;5.9
+Maternal_AM_NonPreg;Acute Malnutrition - non-pregnant non-lactating women (MUAC<230mm);Maternal Nutrition;15-49y;Khan_Younis_Rafah;9.8;7.5;12.6;6;5.1;0.52;Medium;Moderate (5-10%);Deir_Al_Balah;Gaza_North_Gaza;5.1
+Maternal_AM_NonPreg;Acute Malnutrition - non-pregnant non-lactating women (MUAC<230mm);Maternal Nutrition;15-49y;Gaza_Strip_weighted;9.4;8;11;6;3;0.319;High;Moderate (5-10%);Deir_Al_Balah;Gaza_North_Gaza;3
+Maternal_AM_PregLact;Acute Malnutrition - pregnant/lactating women (MUAC<230mm);Maternal Nutrition;15-49y;Gaza_North_Gaza;6.2;3.3;11.3;6;8;1.29;Medium;Moderate (5-10%);Deir_Al_Balah;Gaza_North_Gaza;8
+Maternal_AM_PregLact;Acute Malnutrition - pregnant/lactating women (MUAC<230mm);Maternal Nutrition;15-49y;Deir_Al_Balah;10.9;5.9;19.1;6;13.2;1.211;Medium;High (≥10%);Deir_Al_Balah;Gaza_North_Gaza;13.2
+Maternal_AM_PregLact;Acute Malnutrition - pregnant/lactating women (MUAC<230mm);Maternal Nutrition;15-49y;Khan_Younis_Rafah;6.2;2.9;12.8;6;9.9;1.597;Low;Moderate (5-10%);Deir_Al_Balah;Gaza_North_Gaza;9.9
+Maternal_AM_PregLact;Acute Malnutrition - pregnant/lactating women (MUAC<230mm);Maternal Nutrition;15-49y;Gaza_Strip_weighted;7.2;4.9;10.4;6;5.5;0.764;Medium;Moderate (5-10%);Deir_Al_Balah;Gaza_North_Gaza;5.5
+Diarrhoea_2wk;Diarrhoea prevalence (2 weeks preceding survey);Childhood Morbidity;0-59m;Gaza_North_Gaza;37;32.8;41.5;6;8.7;0.235;High;High (≥20%) — Emergency level;Deir_Al_Balah;Gaza_North_Gaza;8.7
+Diarrhoea_2wk;Diarrhoea prevalence (2 weeks preceding survey);Childhood Morbidity;0-59m;Deir_Al_Balah;37.4;31.5;43.7;6;12.2;0.326;High;High (≥20%) — Emergency level;Deir_Al_Balah;Gaza_North_Gaza;12.2
+Diarrhoea_2wk;Diarrhoea prevalence (2 weeks preceding survey);Childhood Morbidity;0-59m;Khan_Younis_Rafah;37.1;32.7;41.7;6;9;0.243;High;High (≥20%) — Emergency level;Deir_Al_Balah;Gaza_North_Gaza;9
+Diarrhoea_2wk;Diarrhoea prevalence (2 weeks preceding survey);Childhood Morbidity;0-59m;Gaza_Strip_weighted;37.1;34.4;40;6;5.6;0.151;High;High (≥20%) — Emergency level;Deir_Al_Balah;Gaza_North_Gaza;5.6
+Fever_2wk;Fever prevalence (2 weeks preceding survey);Childhood Morbidity;0-59m;Gaza_North_Gaza;33.7;28.5;39.4;6;10.9;0.323;High;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;10.9
+Fever_2wk;Fever prevalence (2 weeks preceding survey);Childhood Morbidity;0-59m;Deir_Al_Balah;31.7;26;37.9;6;11.9;0.375;High;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;11.9
+Fever_2wk;Fever prevalence (2 weeks preceding survey);Childhood Morbidity;0-59m;Khan_Younis_Rafah;30.8;26;36;6;10;0.325;High;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;10
+Fever_2wk;Fever prevalence (2 weeks preceding survey);Childhood Morbidity;0-59m;Gaza_Strip_weighted;31.9;28.9;35.1;6;6.2;0.194;High;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;6.2
+ARI_2wk;Acute Respiratory Infection symptoms (2 weeks preceding survey);Childhood Morbidity;0-59m;Gaza_North_Gaza;9.6;6.5;14.1;6;7.6;0.792;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;7.6
+ARI_2wk;Acute Respiratory Infection symptoms (2 weeks preceding survey);Childhood Morbidity;0-59m;Deir_Al_Balah;6.4;4.1;10;6;5.9;0.922;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;5.9
+ARI_2wk;Acute Respiratory Infection symptoms (2 weeks preceding survey);Childhood Morbidity;0-59m;Khan_Younis_Rafah;3.1;1.8;5.4;6;3.6;1.161;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;3.6
+ARI_2wk;Acute Respiratory Infection symptoms (2 weeks preceding survey);Childhood Morbidity;0-59m;Gaza_Strip_weighted;6;4.6;7.8;6;3.2;0.533;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;3.2
+ORS_received;Received oral rehydration salts (among children with diarrhoea);Diarrhoea Management;0-59m;Gaza_North_Gaza;21;15.1;28.5;6;13.4;0.638;Medium;Poor (<40%);Deir_Al_Balah;Gaza_North_Gaza;13.4
+ORS_received;Received oral rehydration salts (among children with diarrhoea);Diarrhoea Management;0-59m;Deir_Al_Balah;28.7;22;36.3;6;14.3;0.498;High;Poor (<40%);Deir_Al_Balah;Gaza_North_Gaza;14.3
+ORS_received;Received oral rehydration salts (among children with diarrhoea);Diarrhoea Management;0-59m;Khan_Younis_Rafah;27.3;19.3;36.3;6;17;0.623;Medium;Poor (<40%);Deir_Al_Balah;Gaza_North_Gaza;17
+ORS_received;Received oral rehydration salts (among children with diarrhoea);Diarrhoea Management;0-59m;Gaza_Strip_weighted;25.6;21.3;30.4;6;9.1;0.355;High;Poor (<40%);Deir_Al_Balah;Gaza_North_Gaza;9.1
+Zinc_received;Received zinc (among children with diarrhoea);Diarrhoea Management;0-59m;Gaza_North_Gaza;24.5;18;32.5;6;14.5;0.592;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;14.5
+Zinc_received;Received zinc (among children with diarrhoea);Diarrhoea Management;0-59m;Deir_Al_Balah;18.5;12.6;26.2;6;13.6;0.735;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;13.6
+Zinc_received;Received zinc (among children with diarrhoea);Diarrhoea Management;0-59m;Khan_Younis_Rafah;15.2;10.7;21.1;6;10.4;0.684;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;10.4
+Zinc_received;Received zinc (among children with diarrhoea);Diarrhoea Management;0-59m;Gaza_Strip_weighted;18.9;15.6;22.7;6;7.1;0.376;High;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;7.1
+ORS_Zinc_both;Received both ORS and zinc (among children with diarrhoea);Diarrhoea Management;0-59m;Gaza_North_Gaza;13.5;8.9;19.9;6;11;0.815;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;11
+ORS_Zinc_both;Received both ORS and zinc (among children with diarrhoea);Diarrhoea Management;0-59m;Deir_Al_Balah;12.1;7.7;18.5;6;10.8;0.893;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;10.8
+ORS_Zinc_both;Received both ORS and zinc (among children with diarrhoea);Diarrhoea Management;0-59m;Khan_Younis_Rafah;11.5;7.7;17.6;6;9.9;0.861;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;9.9
+ORS_Zinc_both;Received both ORS and zinc (among children with diarrhoea);Diarrhoea Management;0-59m;Gaza_Strip_weighted;12.3;9.6;15.7;6;6.1;0.496;High;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;6.1
+Measles_9to59;Measles vaccination coverage;Preventive Health;9-59m;Gaza_North_Gaza;92.7;89;95.3;6;6.3;0.068;High;Near target (80-95%);Khan_Younis_Rafah;Gaza_North_Gaza;6.3
+Measles_9to59;Measles vaccination coverage;Preventive Health;9-59m;Deir_Al_Balah;93.6;90;95.9;6;5.9;0.063;High;Near target (80-95%);Khan_Younis_Rafah;Gaza_North_Gaza;5.9
+Measles_9to59;Measles vaccination coverage;Preventive Health;9-59m;Khan_Younis_Rafah;94.8;90.5;97.3;6;6.8;0.072;High;Near target (80-95%);Khan_Younis_Rafah;Gaza_North_Gaza;6.8
+Measles_9to59;Measles vaccination coverage;Preventive Health;9-59m;Gaza_Strip_weighted;93.9;91.8;95.5;6;3.7;0.039;High;Near target (80-95%);Khan_Younis_Rafah;Gaza_North_Gaza;3.7
+Measles_1dose;Measles vaccination - at least one dose (card or recall);Preventive Health;9-23m;Gaza_North_Gaza;67.4;55.3;77.6;6;22.3;0.331;High;Below target (<80%);Khan_Younis_Rafah;Gaza_North_Gaza;22.3
+Measles_1dose;Measles vaccination - at least one dose (card or recall);Preventive Health;9-23m;Deir_Al_Balah;76.1;65.3;84.3;6;19;0.25;High;Below target (<80%);Khan_Younis_Rafah;Gaza_North_Gaza;19
+Measles_1dose;Measles vaccination - at least one dose (card or recall);Preventive Health;9-23m;Khan_Younis_Rafah;80.4;65.6;89.9;6;24.3;0.302;High;Near target (80-95%);Khan_Younis_Rafah;Gaza_North_Gaza;24.3
+Measles_1dose;Measles vaccination - at least one dose (card or recall);Preventive Health;9-23m;Gaza_Strip_weighted;75.9;68.5;82;6;13.5;0.178;High;Below target (<80%);Khan_Younis_Rafah;Gaza_North_Gaza;13.5
+VitaminA;Vitamin A supplementation coverage;Preventive Health;6-59m;Gaza_North_Gaza;88.9;81.8;93.5;6;11.7;0.132;High;Good (≥80%);Gaza_North_Gaza;Deir_Al_Balah;11.7
+VitaminA;Vitamin A supplementation coverage;Preventive Health;6-59m;Deir_Al_Balah;46.9;38.2;55.8;6;17.6;0.375;High;Poor (<60%);Gaza_North_Gaza;Deir_Al_Balah;17.6
+VitaminA;Vitamin A supplementation coverage;Preventive Health;6-59m;Khan_Younis_Rafah;70.5;60.9;78.5;6;17.6;0.25;High;Fair (60-80%);Gaza_North_Gaza;Deir_Al_Balah;17.6
+VitaminA;Vitamin A supplementation coverage;Preventive Health;6-59m;Gaza_Strip_weighted;71;65.9;75.5;6;9.6;0.135;High;Fair (60-80%);Gaza_North_Gaza;Deir_Al_Balah;9.6
+Deworming;Deworming coverage;Preventive Health;12-59m;Gaza_North_Gaza;13.5;10.5;17.2;6;6.7;0.496;High;No WHO threshold defined;Deir_Al_Balah;Khan_Younis_Rafah;6.7
+Deworming;Deworming coverage;Preventive Health;12-59m;Deir_Al_Balah;15.5;11.7;20.3;6;8.6;0.555;Medium;No WHO threshold defined;Deir_Al_Balah;Khan_Younis_Rafah;8.6
+Deworming;Deworming coverage;Preventive Health;12-59m;Khan_Younis_Rafah;10;7;14.1;6;7.1;0.71;Medium;No WHO threshold defined;Deir_Al_Balah;Khan_Younis_Rafah;7.1
+Deworming;Deworming coverage;Preventive Health;12-59m;Gaza_Strip_weighted;12.4;10.4;14.7;6;4.3;0.347;High;No WHO threshold defined;Deir_Al_Balah;Khan_Younis_Rafah;4.3
+EverBreastfed;Ever breastfed;Breastfeeding;0-23m;Gaza_North_Gaza;96.3;91.8;98.3;6;6.5;0.067;High;No WHO threshold defined;Deir_Al_Balah;Khan_Younis_Rafah;6.5
+EverBreastfed;Ever breastfed;Breastfeeding;0-23m;Deir_Al_Balah;97.4;91.4;99.3;6;7.9;0.081;High;No WHO threshold defined;Deir_Al_Balah;Khan_Younis_Rafah;7.9
+EverBreastfed;Ever breastfed;Breastfeeding;0-23m;Khan_Younis_Rafah;96.1;91.5;98.3;6;6.8;0.071;High;No WHO threshold defined;Deir_Al_Balah;Khan_Younis_Rafah;6.8
+EverBreastfed;Ever breastfed;Breastfeeding;0-23m;Gaza_Strip_weighted;96.5;94.2;97.9;6;3.7;0.038;High;No WHO threshold defined;Deir_Al_Balah;Khan_Younis_Rafah;3.7
+ExclusiveBF_u6m;Exclusive breastfeeding (under 6 months);Breastfeeding;0-5m;Gaza_North_Gaza;17;9.2;29.3;6;20.1;1.182;Medium;Poor (<25%);Khan_Younis_Rafah;Deir_Al_Balah;20.1
+ExclusiveBF_u6m;Exclusive breastfeeding (under 6 months);Breastfeeding;0-5m;Deir_Al_Balah;15.6;6;35;6;29;1.859;Low;Poor (<25%);Khan_Younis_Rafah;Deir_Al_Balah;29
+ExclusiveBF_u6m;Exclusive breastfeeding (under 6 months);Breastfeeding;0-5m;Khan_Younis_Rafah;25.7;13;44.4;6;31.4;1.222;Medium;Fair (25-50%);Khan_Younis_Rafah;Deir_Al_Balah;31.4
+ExclusiveBF_u6m;Exclusive breastfeeding (under 6 months);Breastfeeding;0-5m;Gaza_Strip_weighted;20.4;13.5;29.5;6;16;0.784;Medium;Poor (<25%);Khan_Younis_Rafah;Deir_Al_Balah;16
+MinDietDiversity;Minimum Dietary Diversity (5+ food groups) [CORRECTED];Complementary Feeding;6-23m;Gaza_North_Gaza;25.7;18.3;34.9;36;16.6;0.646;Medium;Poor (25-50%);Khan_Younis_Rafah;Deir_Al_Balah;16.6
+MinDietDiversity;Minimum Dietary Diversity (5+ food groups) [CORRECTED];Complementary Feeding;6-23m;Deir_Al_Balah;22.1;15.6;30.3;36;14.7;0.665;Medium;Critical (<25%);Khan_Younis_Rafah;Deir_Al_Balah;14.7
+MinDietDiversity;Minimum Dietary Diversity (5+ food groups) [CORRECTED];Complementary Feeding;6-23m;Khan_Younis_Rafah;37.8;28.1;48.6;36;20.5;0.542;Medium;Poor (25-50%);Khan_Younis_Rafah;Deir_Al_Balah;20.5
+MinDietDiversity;Minimum Dietary Diversity (5+ food groups) [CORRECTED];Complementary Feeding;6-23m;Gaza_Strip_weighted;30.3;25;36.1;36;11.1;0.366;High;Poor (25-50%);Khan_Younis_Rafah;Deir_Al_Balah;11.1
+MinMealFreq;Minimum Meal Frequency;Complementary Feeding;6-23m;Gaza_North_Gaza;51.5;40.7;62.1;36;21.4;0.416;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;21.4
+MinMealFreq;Minimum Meal Frequency;Complementary Feeding;6-23m;Deir_Al_Balah;65.6;56.4;73.7;36;17.3;0.264;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;17.3
+MinMealFreq;Minimum Meal Frequency;Complementary Feeding;6-23m;Khan_Younis_Rafah;73.1;63.6;80.9;36;17.3;0.237;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;17.3
+MinMealFreq;Minimum Meal Frequency;Complementary Feeding;6-23m;Gaza_Strip_weighted;64.7;59;69.9;36;10.9;0.168;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;10.9
+MinAcceptableDiet;Minimum Acceptable Diet;Complementary Feeding;6-23m;Gaza_North_Gaza;16.2;10;25.2;36;15.2;0.938;Medium;Critical (<25%);Khan_Younis_Rafah;Gaza_North_Gaza;15.2
+MinAcceptableDiet;Minimum Acceptable Diet;Complementary Feeding;6-23m;Deir_Al_Balah;18.9;13.1;26.3;36;13.2;0.698;Medium;Critical (<25%);Khan_Younis_Rafah;Gaza_North_Gaza;13.2
+MinAcceptableDiet;Minimum Acceptable Diet;Complementary Feeding;6-23m;Khan_Younis_Rafah;28.6;20;39.1;36;19.1;0.668;Medium;Poor (25-50%);Khan_Younis_Rafah;Gaza_North_Gaza;19.1
+MinAcceptableDiet;Minimum Acceptable Diet;Complementary Feeding;6-23m;Gaza_Strip_weighted;22.4;17.7;27.9;36;10.2;0.455;High;Critical (<25%);Khan_Younis_Rafah;Gaza_North_Gaza;10.2
+EggFleshFood;Egg and/or flesh food consumption [NEW - correct label for data previously under MinDietDiversity];Diet Quality;6-23m;Gaza_North_Gaza;36.8;26.4;48.5;6;22.1;0.601;Medium;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;22.1
+EggFleshFood;Egg and/or flesh food consumption [NEW];Diet Quality;6-23m;Deir_Al_Balah;40.2;31.4;49.7;6;18.3;0.455;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;18.3
+EggFleshFood;Egg and/or flesh food consumption [NEW];Diet Quality;6-23m;Khan_Younis_Rafah;50.4;39.5;61.3;6;21.8;0.433;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;21.8
+EggFleshFood;Egg and/or flesh food consumption [NEW];Diet Quality;6-23m;Gaza_Strip_weighted;43.7;37.4;50.3;6;12.9;0.295;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;12.9
+Sweet_Beverage;Sweet beverage consumption;Diet Quality;6-23m;Gaza_North_Gaza;58.8;49.9;67.2;6;17.3;0.294;High;No WHO threshold defined;Deir_Al_Balah;Gaza_North_Gaza;17.3
+Sweet_Beverage;Sweet beverage consumption;Diet Quality;6-23m;Deir_Al_Balah;64.8;54.5;73.8;6;19.3;0.298;High;No WHO threshold defined;Deir_Al_Balah;Gaza_North_Gaza;19.3
+Sweet_Beverage;Sweet beverage consumption;Diet Quality;6-23m;Khan_Younis_Rafah;63.9;51.7;74.5;6;22.8;0.357;High;No WHO threshold defined;Deir_Al_Balah;Gaza_North_Gaza;22.8
+Sweet_Beverage;Sweet beverage consumption;Diet Quality;6-23m;Gaza_Strip_weighted;62.6;56.2;68.5;6;12.3;0.196;High;No WHO threshold defined;Deir_Al_Balah;Gaza_North_Gaza;12.3
+Unhealthy_Food;Unhealthy food consumption;Diet Quality;6-23m;Gaza_North_Gaza;66.2;55.9;75.1;6;19.2;0.29;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;19.2
+Unhealthy_Food;Unhealthy food consumption;Diet Quality;6-23m;Deir_Al_Balah;72.1;63.2;79.6;6;16.4;0.227;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;16.4
+Unhealthy_Food;Unhealthy food consumption;Diet Quality;6-23m;Khan_Younis_Rafah;78.2;69;85.2;6;16.2;0.207;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;16.2
+Unhealthy_Food;Unhealthy food consumption;Diet Quality;6-23m;Gaza_Strip_weighted;73;67.7;77.7;6;10;0.137;High;No WHO threshold defined;Khan_Younis_Rafah;Gaza_North_Gaza;10
+Zero_FruitVeg;Zero vegetable or fruit consumption;Diet Quality;6-23m;Gaza_North_Gaza;64;54.8;72.2;6;17.4;0.272;High;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;17.4
+Zero_FruitVeg;Zero vegetable or fruit consumption;Diet Quality;6-23m;Deir_Al_Balah;59.8;49.2;69.6;6;20.4;0.341;High;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;20.4
+Zero_FruitVeg;Zero vegetable or fruit consumption;Diet Quality;6-23m;Khan_Younis_Rafah;41.2;31.2;52;6;20.8;0.505;Medium;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;20.8
+Zero_FruitVeg;Zero vegetable or fruit consumption;Diet Quality;6-23m;Gaza_Strip_weighted;52.7;46.9;58.5;6;11.6;0.22;High;No WHO threshold defined;Gaza_North_Gaza;Khan_Younis_Rafah;11.6
+Bottle_Feeding;Bottle feeding;Diet Quality;6-23m;Gaza_North_Gaza;42.9;35.4;50.7;6;15.3;0.357;High;No WHO threshold defined;Deir_Al_Balah;Gaza_North_Gaza;15.3
+Bottle_Feeding;Bottle feeding;Diet Quality;6-23m;Deir_Al_Balah;48.7;40.8;56.7;6;15.9;0.326;High;No WHO threshold defined;Deir_Al_Balah;Gaza_North_Gaza;15.9
+Bottle_Feeding;Bottle feeding;Diet Quality;6-23m;Khan_Younis_Rafah;45.5;36.6;54.6;6;18;0.396;High;No WHO threshold defined;Deir_Al_Balah;Gaza_North_Gaza;18
+Bottle_Feeding;Bottle feeding;Diet Quality;6-23m;Gaza_Strip_weighted;45.4;40.5;50.4;6;9.9;0.218;High;No WHO threshold defined;Deir_Al_Balah;Gaza_North_Gaza;9.9
+Sample_HH;Households surveyed (achieved);Sample/Coverage;household;Gaza_Strip_total;;;;15;;;;;;;0
+Sample_Children;Children with anthropometric assessment;Sample/Coverage;0-59m;Gaza_Strip_total;;;;15;;;;;;;0
+Clusters_Achieved;Clusters surveyed (of 150 planned);Sample/Coverage;cluster;Gaza_Strip_total;98;;;15;;;;No WHO threshold defined;;;0
+Pop_Excluded;Population excluded from sampling frame;Coverage;population;Gaza_Strip_total;17;;;17;;;;No WHO threshold defined;;;0
+Pop_Accessible;Accessible survey population;Coverage;population;Gaza_Strip_total;83;;;19;;;;No WHO threshold defined;;;0
+WHZ_MUAC_Convergence_GAM;Convergence rate between WHZ and MUAC for GAM diagnosis;Data Quality;0-59m;Gaza_Strip_weighted;21.6;;;23;;;;No WHO threshold defined;;;0
+WHZ_MUAC_Convergence_SAM;Convergence rate between WHZ and MUAC for SAM diagnosis;Data Quality;0-59m;Gaza_Strip_weighted;22.3;;;23;;;;No WHO threshold defined;;;0
